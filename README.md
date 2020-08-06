@@ -16,3 +16,5 @@ This is a simple tool providing an API and UI for the manual approval of a canar
 ## Configuring Flagger Webhooks
 
 https://docs.flagger.app/usage/webhooks#manual-gating
+
+.

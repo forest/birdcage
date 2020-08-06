@@ -1,3 +1,11 @@
+## [1.5.1](https://github.com/forest/birdcage/compare/v1.5.0...v1.5.1) (2020-08-06)
+
+
+### Bug Fixes
+
+* bump ([8efd793](https://github.com/forest/birdcage/commit/8efd793bf25f9258a6cdc72303eb42ddb50917a6))
+* bump version for testing ([fc0058f](https://github.com/forest/birdcage/commit/fc0058fedbf6baffd301ca966a99cbb833b783b6))
+
 # [1.5.0](https://github.com/cognizant-softvision/birdcage/compare/v1.4.2...v1.5.0) (2020-08-06)
 
 

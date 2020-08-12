@@ -1,3 +1,25 @@
+# [1.6.0](https://github.com/forest/birdcage/compare/v1.5.0...v1.6.0) (2020-08-12)
+
+
+### Bug Fixes
+
+* cleaned up authentication and added required login plug ([74ffcd6](https://github.com/forest/birdcage/commit/74ffcd61937588d38e0fb542294ef0e59e583a92))
+* don't require APP_URL env var ([30f4f83](https://github.com/forest/birdcage/commit/30f4f8323c7814577143328b4e430c7157a9f020))
+
+
+### Chores
+
+* **release:** 1.6.0 [skip ci] ([44d26f3](https://github.com/forest/birdcage/commit/44d26f3fdd9a10dd03804c994d4a1dfb8089f5ff)), closes [#7](https://github.com/forest/birdcage/issues/7)
+* **release:** 1.7.0 [skip ci] ([547861a](https://github.com/forest/birdcage/commit/547861a788da35a4d09166fe748850afc3332059)), closes [#8](https://github.com/forest/birdcage/issues/8)
+* **release:** 1.7.1 [skip ci] ([f982375](https://github.com/forest/birdcage/commit/f982375ed01fd2188efd3c7f0f978473f7cd13e5))
+* **release:** 1.7.2 [skip ci] ([5160fa3](https://github.com/forest/birdcage/commit/5160fa330ee170576ec7a8c515c68b846936d504))
+
+
+### Features
+
+* add optional slack bot (#7) ([f7656b9](https://github.com/forest/birdcage/commit/f7656b9615fac5cb540dd27668017bd1ac7b137b)), closes [#7](https://github.com/forest/birdcage/issues/7)
+* add support for OpenID Connect authentication (#8) ([350d82f](https://github.com/forest/birdcage/commit/350d82f12be48596572df3a59490d00172478519)), closes [#8](https://github.com/forest/birdcage/issues/8)
+
 ## [1.7.2](https://github.com/cognizant-softvision/birdcage/compare/v1.7.1...v1.7.2) (2020-08-12)
 
 

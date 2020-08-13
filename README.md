@@ -66,3 +66,5 @@ webhooks:
     type: confirm-promotion
     url: https://birdcage.local:8080/api/confirm/promotion
 ```
+
+.
